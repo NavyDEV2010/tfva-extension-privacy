@@ -1,12 +1,16 @@
 # Task Force VA — Extension Privacy Policy
 
-This repository is public for one reason: to host the privacy policy for the **VA Record
-Snapshot** Chrome extension at a stable, publicly reachable URL, as required by the Chrome
-Web Store.
+This repository is public to host the Chrome Web Store's required public URLs for the
+**VA Record Snapshot** Chrome extension.
 
-**The policy: [privacy.md](privacy.md)**
+- **Privacy policy: [privacy.md](privacy.md)** — the Store's Privacy policy URL field
+- **Support: [SUPPORT.md](SUPPORT.md)** — the Store's Support URL field
 
 It contains no source code and no application data.
+
+## Contact
+
+**support@taskforceva.io**
 
 ---
 
